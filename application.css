@@ -1,0 +1,20 @@
+.header{
+    background-color:rgb(17, 99, 129);
+    color:#ffffff;
+    text-align:center;
+    font-size:30px;
+    font-weight:bold;
+}
+
+.main{
+    text-align:center;
+    width:700px;
+    margin:30px auto;
+    background-color: #ffffff;
+}
+
+.paragrath{
+    font-weight: bold;
+    font-style:italic;
+    font-size: 20px;
+}
